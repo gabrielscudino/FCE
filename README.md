@@ -3,7 +3,7 @@
 Repositório criado exclusivamente para a entrega da prova da disciplina de Fundamentos da Computação, do curso de Engenharia Química (UFES).
 
 **Aluno:** Gabriel Scudino Freitas  
-**Professora:** Dr. Julio Cesar Sampaio Dutra
+**Professor:** Dr. Julio Cesar Sampaio Dutra
 
 ---
 
