@@ -1,9 +1,9 @@
-# FCe - Avaliação de Fundamentos da Computação 
+# FCE - Avaliação de Fundamentos da Computação 
 
 Repositório criado exclusivamente para a entrega da prova da disciplina de Fundamentos da Computação, do curso de Engenharia Química (UFES).
 
 **Aluno:** Gabriel Scudino Freitas  
-**Professora:** Dr. JULIO CESAR SAMPAIO DUTRA
+**Professora:** Dr. Julio Cesar Sampaio Dutra
 
 ---
 
